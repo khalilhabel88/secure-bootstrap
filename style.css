@@ -1,0 +1,39 @@
+.description{background-image: url("https://www.netplus.ch/media/image/0/header_nbig/keyvisual-business-homme-telephone-bureau-5.jpg");
+height: 800px;filter: brightness(40%);background-repeat: no-repeat;background-size: cover  ;background-position: center;
+}
+.bg-text{
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0, 0.0); /* Black w/opacity/see-through */
+    color: white;
+    font-weight: bold;
+    position: absolute;
+    top:62%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 100%;
+    opacity: 1;
+  }
+  h1{color: aliceblue;
+margin-left: 20px;}
+h6{color:aliceblue ;padding: 20px; text-align: center;}
+#fix{ margin-left: -30px; margin-top: 50px;}
+.container{text-align: center;}
+#rep,h5,h3{color: aliceblue;margin-top: 50px ;margin-left: 90px ;text-align: left;}
+p{margin-top: 31px;}
+
+button:hover {
+    transform: translateY(8px);
+  }
+  .about{background-color: #252A31; margin-top: 10px;}
+  .pic-3{ 
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    width: 90%;}
+    #about-us{text-align: center;margin-top: 50px;}
+    #config{text-align: center;margin-top: 50px;}
+    #pic-protection{margin: 20px 0px 20px 20px ;}
+    #protection{margin-top: 50px;}
+    #text-protection{margin-top: 51px ; text-align: center;}
+  
